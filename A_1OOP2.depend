@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1646752428 source:d:\documents\probleme c++\a_1oop2\main.cpp
+	<iostream>
+	"point_library.h"
+	"shape_library.h"
+
+1646737964 source:d:\documents\probleme c++\a_1oop2\point_library.cpp
+	<iostream>
+	<math.h>
+	"point_library.h"
+
+1646743535 d:\documents\probleme c++\a_1oop2\point_library.h
+
+1646752329 source:d:\documents\probleme c++\a_1oop2\shape_library.cpp
+	<iostream>
+	<math.h>
+	"point_library.h"
+	"shape_library.h"
+
+1646752002 d:\documents\probleme c++\a_1oop2\shape_library.h
+
